@@ -1,5 +1,7 @@
 # cpp-practice_mrg-reaction-test
 
+![M.R.G.#FaZeUp](/MRG的反应测试/res/FaZeUP.ico)
+
 一个用 **C++ 和 Win32 API** 编写的“反应速度测试”小程序，主题为：
 
 > C++练习——简单的 Win32 程序与 GDI 绘制
